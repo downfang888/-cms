@@ -1,0 +1,15 @@
+安装步骤：
+1、下载文件，并且解压到网站的根目录下，配置好apache/IIS虚拟主机;
+2、安装网址http://localhost/install/（localhost为您网址地址）
+3、伪静态安装
+   Apache Web Server(独立主机用户) 不用配置
+   IIS Web Server(独立主机用户) 伪静态文件在根目录/httpd.ini
+   IIS7 Web Server(独立主机用户) 伪静态文件在根目录/web.config
+4、网站后台入口 /admin/index.php
+
+环境要求：
+ PHP + Mysql
+
+源码使用过程中，有任何问题，可加QQ群交流：127854510
+
+CICMS(爱搜客高端建站) 是一款轻量级企业网站管理系统，基于PHP+Mysql开发，采用CodeIgniter框架。可运行在Linux、Windows、MacOSX、Solaris等各种平台上，支持自定义伪静态，一键SEO功能，可以设置每个栏目独立SEO。前台模板采用DIV+CSS设计，后台界面设计简洁明了，功能简单易具有良好的用户体验，稳定性好、扩展性及安全性强，可以自定义字段，自定义模型。
