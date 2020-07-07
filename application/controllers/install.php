@@ -8,8 +8,8 @@ class Install extends CI_Controller{
         $this->load->helper('url');
 	}
 	
-//	public function index(){
-//
+	public function index(){
+        exit;
 //	  $file="install/cicms.lock";
 //	   if(file_exists($file)){
 //	     header("Content-type: text/html; charset=utf-8");
@@ -18,8 +18,8 @@ class Install extends CI_Controller{
 //       }
 //
 //		$this->load->view('install/index');
-//
-//	}
+
+	}
 
 
 }
