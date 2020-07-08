@@ -10,7 +10,7 @@ $GLOBALS["wl_page"]["search"]=6;
 $GLOBALS["wl_db"]["hostname"]="localhost";
 $GLOBALS["wl_db"]["username"]="root";
 $GLOBALS["wl_db"]["password"]="root";
-$GLOBALS["wl_db"]["database"]="ask18001";
+$GLOBALS["wl_db"]["database"]="cicms";
 //水印信息配置
 $GLOBALS["wl_water"]["action"]=true;
 $GLOBALS["wl_water"]["min_image_w"]=300;
@@ -25,7 +25,5 @@ $GLOBALS["wl_ts"]["db_debug"]=false;
 $GLOBALS["wl_ts"]["db_debug_file"]=false;
 $GLOBALS["wl_ts"]["error"]=false;
 $GLOBALS["wl_ts"]["cache"]=false;
-$GLOBALS["install"]='false';
-//邮箱配置
 
 ?>
